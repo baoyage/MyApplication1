@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="introduction1">我的</string>
+    <string name="introduction">我的名字是徐鸣扬，我的专业是计算机工程。这学期是我硕士学位的最后一学期。我的母语是汉语。</string>
+</resources>
